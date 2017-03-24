@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Javadoc" 
+AuthBasicProvider file
+AuthUserFile "/home/wsrogers3/.htpasswd"
+Require user WesleyR
