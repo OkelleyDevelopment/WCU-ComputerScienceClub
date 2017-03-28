@@ -1459,7 +1459,7 @@
 		ul.dates .date:after {
 			content: '';
 			position: absolute;
-			bottom: 0;
+			bottom: -1px;
 			right: -1.2em;
 			border-left: solid 1.25em #d52349;
 			border-top: solid 1.8em transparent;
@@ -2516,7 +2516,7 @@
 		/* Banner */
 
 			#banner {
-				margin: 2em 0 4em 0 !important;
+				margin: 0 0 0 0 !important;
 				padding: 6em 0;
 			}
 
