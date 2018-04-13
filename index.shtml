@@ -21,8 +21,8 @@
             
 		    <section id="banner">
 			    <header>
-				    <h2>WCU Mathematics Club</h2>
-    				<p>We do math.</p>
+				    <h2>Mathematics and Computer Science Club</h2>
+    				<p>We do stuff.</p>
 	    		</header>
   		    </section>
 		
@@ -35,7 +35,7 @@
 								<!-- Portfolio -->
 									<section>
 										<header class="major">
-											<h2>Things we've done</h2>
+											<h2>Explore</h2>
 										</header>
 										<div class="row">
 											<div class="4u 12u(mobile)">
@@ -44,7 +44,7 @@
 													<header>
 														<h3>Events</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>As a club, we host several events throughout the year. Our biggest events are the department picnic, hosted every semester. Join us for free food and fun!</p>
 													<footer>
 														<a href="#" class="button alt">Find out more</a>
 													</footer>
@@ -54,9 +54,9 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 													<header>
-														<h3>Competitions</h3>
+														<h3>Meet the Board</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>We have several board positions, such as president, vice president, treasurer, webmaster, and many others! Find out who everyone is and what they do!</p>
 													<footer>
 														<a href="#" class="button alt">Find out more</a>
 													</footer>
@@ -68,7 +68,7 @@
 													<header>
 														<h3>Conferences</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>There are several conferences that we go to as a club every year. The MAA Southeastern Section meeting, UNC Greensboro's Conference on Mathematics, and many others!</p>
 													<footer>
 														<a href="#" class="button alt">Find out more</a>
 													</footer>
@@ -80,9 +80,9 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
 													<header>
-														<h3>Meet the Members</h3>
+														<h3>Professional Organizations</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>There are several professional organizations for Mathematics and Compter Science majors, such as the Association for Computational Machinery, and several others!</p>
 													<footer>
 														<a href="#" class="button alt">Find out more</a>
 													</footer>
@@ -92,9 +92,9 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
 													<header>
-														<h3>Games</h3>
+														<h3>Projects and Games</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>We have several ongoing projects as a club, such as this website and the Touchmeister in the CS Lab. We have them available for download as well!</p>
 													<footer>
 														<a href="#" class="button alt">Find out more</a>
 													</footer>
@@ -104,11 +104,11 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
 													<header>
-														<h3>Dolore nisl feugiat</h3>
+														<h3>Service</h3>
 													</header>
-													<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+													<p>We do service in the area of Western Carolina University, such as helping with local competitions, teaching, and assisting people in various ways.</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+                                            		    <a href="#" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
