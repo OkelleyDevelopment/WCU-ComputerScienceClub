@@ -15,7 +15,7 @@
 	</head>
 	<body class="no-sidebar">
 		<div id="page-wrapper">
-            <!--#include virtual="./header.html"-->
+            <!--#include virtual="included/header.html"-->
 
 			<!-- Main -->
 				<div id="main-wrapper">
@@ -84,7 +84,7 @@
 				</div>
 
 			<!-- Footer -->
-                <!--#include virtual="./footer.html"-->
+                <!--#include virtual="included/footer.html"-->
 		</div>
 
 		<!-- Scripts -->

@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>REUs | Western Carolina University</title>
+		<title>Undergraduate Experiences | Western Carolina University</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -16,7 +16,7 @@
 	<body class="right-sidebar">
 		<div id="page-wrapper">
 
-			<!--#include virtual="./header.html" -->
+			<!--#include virtual="included/header.html" -->
 
 			<!-- Main -->
 				<div id="main-wrapper">
@@ -28,40 +28,41 @@
 									<article class="box post">
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 										<header>
-											<h2>Research Experience in Undergrad</h2>
-											<p>An opportunity unlike any other</p>
+											<h2>Experiences in Undergrad</h2>
+											<p>Opportunities unlike any other</p>
 										</header>
 										<p>
-											Vestibulum scelerisque ultricies libero id hendrerit. Vivamus malesuada quam faucibus ante dignissim auctor
-											hendrerit libero placerat. Nulla facilisi. Proin aliquam felis non arcu molestie at accumsan turpis commodo.
-											Proin elementum, nibh non egestas sodales, augue quam aliquet est, id egestas diam justo adipiscing ante.
-											Pellentesque tempus nulla non urna eleifend ut ultrices nisi faucibus.
-										</p>
-										<p>
-											Praesent a dolor leo. Duis in felis in tortor lobortis volutpat et pretium tellus. Vestibulum ac ante nisl,
-											a elementum odio. Duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis.
-											placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc,
-											eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean
-											elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-											sit amet nullam consequat feugiat dolore tempus.
-										</p>
+									        Undergraduate is a time to experience a variety of different environments before commiting to one. 
+                                        </p>
 										<section>
 											<header>
-												<h3>Something else</h3>
+												<h3>Research Experience in Undergraduate (REU)</h3>
 											</header>
 											<p>
-												Elementum odio duis semper risus et lectus commodo fringilla. Maecenas sagittis convallis justo vel mattis.
-												placerat, nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc,
-												eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean
-												elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-												sit amet nullam consequat feugiat dolore tempus.
-											</p>
+											    Research Experiences in undergraduate are a good way to do research as an undergraduate. 
+                                                Whether you're planning on going to graduate school, or work in a research and development position,
+                                                an REU can be a valuable experience for any student. Not only do they provide great experiences for research, 
+                                                an REU is a great place to network with other undergraduates with similar interests. In addition, most REUs 
+                                                provide summer housing and a decent stipend. 
+                                            </p>
 											<p>
-												Nunc diam iaculis massa, et aliquet nibh leo non nisl vitae porta lobortis, enim neque fringilla nunc,
-												eget faucibus lacus sem quis nunc suspendisse nec lectus sit amet augue rutrum vulputate ut ut mi. Aenean
-												elementum, mi sit amet porttitor lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor
-												sit amet nullam consequat feugiat dolore tempus.
-											</p>
+                                                In addition to summer research experiences, most professors are doing research on campus year round.
+											    If you're interested in participating in research, talk to one of your professors! Many professors are happy
+                                                to develop a research project for a student. Many of the mathematics majors here at Western are participating in research.
+                                            </p>
+										</section>
+										<section>
+											<header>
+												<h3>Internships</h3>
+											</header>
+											<p>
+											    Internships are fantastic way to get a feel for a job. Whether it be a software engineering internship or web development,
+                                                many companies offer internships to current undergraduates. An internship typically consists of one or more summer projects that
+                                                the company needs done. These can be anywhere from tasks that full-time members don't have time for, to jobs that would best 
+                                                be suited for an intern. Internships are a fantastic way to network within your field of interest, and a great way to discover what
+                                                the real world is like. While internships pay fairly well, not all companies provide housing for interns. Make sure to find out
+                                                what all is provided by the company and what you'll need to provide.
+                                            </p>
 										</section>
 										<section>
 											<header>
@@ -84,11 +85,11 @@
 									<section class="box">
 										<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
 										<header>
-											<h3>Sed etiam lorem nulla</h3>
+											<h3>Experiences mailing list</h3>
 										</header>
-										<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+										<p>We have a mailing list for REU recommendations and internship opportunities. We send out emails regularly detailing internship openings, REU applications, and many other undergraduate experiences.</p>
 										<footer>
-											<a href="#" class="button alt">Magna sed taciti</a>
+											<a href="#" class="button alt">Join the mailing list</a>
 										</footer>
 									</section>
 									<section class="box">
@@ -103,16 +104,27 @@
 											<li><a href="#">Aptent taciti sociosqu ad litora</a></li>
 										</ul>
 										<footer>
-											<a href="#" class="button alt">Ipsum consequat</a>
+											<a href="https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044" class="button alt">NSF List</a>
 										</footer>
 									</section>
-
+									<section class="box">
+										<header>
+											<h3>A few internships of note</h3>
+										</header>
+										<p>Here's a few internships that current or previous students have applied for or attended!</p>
+										<ul class="divided">
+											<li><a href="#">Sed et blandit consequat sed</a></li>
+											<li><a href="#">Hendrerit tortor vitae sapien dolore</a></li>
+											<li><a href="#">Sapien id suscipit magna sed felis</a></li>
+											<li><a href="#">Aptent taciti sociosqu ad litora</a></li>
+										</ul>
+									</section>
 							</div>
 						</div>
 					</div>
 				</div>
 
-			<!--#include virtual="./footer.html"-->
+			<!--#include virtual="included/footer.html"-->
 
 		</div>
 

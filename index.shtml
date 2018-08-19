@@ -17,7 +17,7 @@
 	</head>
 	<body class="homepage">
 		<div id="page-wrapper">
-            <!--#include virtual="./header.html" -->
+            <!--#include virtual="included/header.html" -->
             
 		    <section id="banner">
 			    <header>
@@ -46,7 +46,7 @@
 													</header>
 													<p>As a club, we host several events throughout the year. Our biggest events are the department picnic, hosted every semester. Join us for free food and fun!</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="events.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -58,7 +58,7 @@
 													</header>
 													<p>We have several board positions, such as president, vice president, treasurer, webmaster, and many others! Find out who everyone is and what they do!</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="board.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -70,7 +70,7 @@
 													</header>
 													<p>There are several conferences that we go to as a club every year. The MAA Southeastern Section meeting, UNC Greensboro's Conference on Mathematics, and many others!</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="conferences.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -84,7 +84,7 @@
 													</header>
 													<p>There are several professional organizations for Mathematics and Compter Science majors, such as the Association for Computational Machinery, and several others!</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="orgs.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -96,7 +96,7 @@
 													</header>
 													<p>We have several ongoing projects as a club, such as this website and the Touchmeister in the CS Lab. We have them available for download as well!</p>
 													<footer>
-														<a href="#" class="button alt">Find out more</a>
+														<a href="projects.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -121,7 +121,7 @@
 					</div>
 				</div>
 
-			<!--#include virtual="./footer.html"-->
+			<!--#include virtual="included/footer.html"-->
 
 		</div>
 
