@@ -8,21 +8,7 @@
 						<h2>Upcoming Events</h2>
 					</header>
 					<ul class="dates">
-						<li>
-							<span class="date">Apr <strong>23</strong></span>
-							<h3><a href="#">Department Picnic</a></h3>
-							<p>Come join us at 5:30pm at the picnic area!</p>
-						</li>
-                        <li>
-							<span class="date">May <strong>4</strong></span>
-							<h3><a href="#">Last Day of Classes</a></h3>
-							<p>Last day of classes for the Spring semester.</p>
-						</li>
-                        <li>
-							<span class="date">May <strong>7</strong></span>
-							<h3><a href="#">Finals Week</a></h3>
-							<p>Finals start! Good luck!</p>
-						</li>
+                        <!--#include file="calendar.html" -->
 					</ul>
 				</section>
 			</div>

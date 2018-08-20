@@ -117,7 +117,7 @@
 					</div>
 				</div>
 
-			<!--#include virtual="included/footer.html"-->
+			<!--#include virtual="included/footer.shtml"-->
 		</div>
 		<!--#include virtual="included/scripts.html" -->
 	</body>
