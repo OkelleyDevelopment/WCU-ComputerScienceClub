@@ -20,7 +20,6 @@
 					<div class="container">
 						<div class="row">
 							<div class="12u">
-
 								<!-- Portfolio -->
 									<section>
 										<header class="major">
@@ -31,10 +30,11 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
 													<header>
-														<h3>Events</h3>
+														<h3>Wesley Rogers</h3>
+                                                        <p>CS Club President</p>
 													</header>
-													<p>As a club, we host several events throughout the year. Our biggest events are the department picnic, hosted every semester. Join us for free food and fun!</p>
-													<footer>
+													<p></p>
+                                                    <footer>
 														<a href="events.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
@@ -43,10 +43,11 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 													<header>
-														<h3>Meet the Board</h3>
+														<h3>Adam Gregory</h3>
+                                                        <p>Math Club President</p>
 													</header>
-													<p>We have several board positions, such as president, vice president, treasurer, webmaster, and many others! Find out who everyone is and what they do!</p>
-													<footer>
+													<p></p>
+                                                    <footer>
 														<a href="board.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
@@ -55,10 +56,10 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 													<header>
-														<h3>Conferences</h3>
+														<h3>Caleb Tupone</h3>
 													</header>
-													<p>There are several conferences that we go to as a club every year. The MAA Southeastern Section meeting, UNC Greensboro's Conference on Mathematics, and many others!</p>
-													<footer>
+													<p></p>
+                                                    <footer>
 														<a href="conferences.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
@@ -69,10 +70,10 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
 													<header>
-														<h3>Professional Organizations</h3>
+														<h3>Luke Guatelli</h3>
 													</header>
-													<p>There are several professional organizations for Mathematics and Compter Science majors, such as the Association for Computational Machinery, and several others!</p>
-													<footer>
+													<p></p>
+                                                    <footer>
 														<a href="orgs.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
@@ -81,10 +82,10 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
 													<header>
-														<h3>Projects and Games</h3>
+														<h3>Kevin Filanowski</h3>
 													</header>
-													<p>We have several ongoing projects as a club, such as this website and the Touchmeister in the CS Lab. We have them available for download as well!</p>
-													<footer>
+													<p></p>
+                                                    <footer>
 														<a href="projects.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
@@ -93,17 +94,56 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
 													<header>
-														<h3>Service</h3>
+														<h3>Elijah DeJonge</h3>
 													</header>
-													<p>We do service in the area of Western Carolina University, such as helping with local competitions, teaching, and assisting people in various ways.</p>
-													<footer>
+													<p></p>
+                                                    <footer>
+                                            		    <a href="#" class="button alt">Find out more</a>
+													</footer>
+												</section>
+											</div>
+										</div>
+										<div class="row">
+											<div class="4u 12u(mobile)">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+													<header>
+														<h3>Zay Watkins</h3>
+                                                        <p>Math Club Treasurer</p>
+													</header>
+													<p></p>
+                                                    <footer>
+														<a href="orgs.shtml" class="button alt">Find out more</a>
+													</footer>
+												</section>
+											</div>
+											<div class="4u 12u(mobile)">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+													<header>
+														<h3>Peter Gardner</h3>
+													</header>
+													<p></p>
+                                                    <footer>
+														<a href="projects.shtml" class="button alt">Find out more</a>
+													</footer>
+												</section>
+											</div>
+											<div class="4u 12u(mobile)">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+													<header>
+														<h3></h3>
+													</header>
+													<p></p>
+                                                    <footer>
                                             		    <a href="#" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
 										</div>
 									</section>
-
+                                <!-- End portfolio -->
 							</div>
 						</div>
 						</div>

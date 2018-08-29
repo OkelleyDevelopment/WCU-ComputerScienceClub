@@ -19,11 +19,11 @@
 					</header>
 					<a href="#" class="image featured"><img src="images/pic10.jpg" alt="" /></a>
 					<p>
-                        			<!-- I can't write -->
-                        			Insert junk here. 
+                        The Math and CS Clubs at Western are a group of students
+                        who work together to better each other, and have fun while doing it.
 					</p>
 					<footer>
-						<a href="#" class="button">Find out more</a>
+						<a href="about-us.shtml" class="button">Find out more</a>
 					</footer>
 				</section>
     			</div>
@@ -31,7 +31,7 @@
 		<div class="row">
 			<!-- This is to get the social div to center -->
 			<div class="4u 12u(mobile)">
-            		</div>
+            </div>
 			
 			<div class="4u 12u(mobile)">
 				<section>

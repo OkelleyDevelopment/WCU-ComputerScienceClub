@@ -100,11 +100,11 @@
 												<section class="box">
 													<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
 													<header>
-														<h3>Service</h3>
+														<h3>Scavenger Hunt</h3>
 													</header>
-													<p>We do service in the area of Western Carolina University, such as helping with local competitions, teaching, and assisting people in various ways.</p>
-													<footer>
-                                            		    <a href="#" class="button alt">Find out more</a>
+													<p>We're running a year-long scavenger hunt! Clues are hidden throughout the CS Lab, the website, and several other places throughout campus!</p>
+                                                    <footer>
+                                            		    <a href="hunt.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -116,7 +116,7 @@
 						</div>
 					</div>
 				</div>
-
+            <!-- END MAIN -->
 			<!--#include virtual="included/footer.shtml"-->
 		</div>
 		<!--#include virtual="included/scripts.html" -->
