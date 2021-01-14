@@ -1,6 +1,6 @@
 # Student ACM Chapter Website
 
-# 2020 - 2021 School Year
+### 2020 - 2021 School Year
 
 Website maintainer: Nicholas O'Kelley
 
