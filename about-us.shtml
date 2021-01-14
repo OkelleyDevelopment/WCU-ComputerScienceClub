@@ -19,7 +19,7 @@
           <!-- Content -->
           <article class="box post">
             <a href="#" class="image featured"
-              ><img src="../images/about.webp" alt="Beep boop, looks like the image did not render :/"
+              ><img src="images/about-us.webp" alt=""
             /></a>
             <header>
               <h2>About Us</h2>
@@ -34,25 +34,25 @@
             
             <section>
               <header>
-                <h2>Chapter Advisors</h2>
-                <p><a href="mailto:andrewscott@email.wcu.edu">Dr. Andrew Scott</a></p>
-                <p><a href="mailto:kmorovat@email.wcu.edu">Dr. Kate Morovat</a></p>
+                <h3>Chapter Advisors</h3>
+                <p>Dr. Kate Morovat</a></p>
+                <p>Dr. Andrew Scott</a></p>
               </header>
 
               <header>
-                <h2>Club Officers</h2>
-                <p>President: <a href="mailto:dhammer2@catamount.wcu.edu">Daniel Hammer</a></p>
-                <p>Secretary: <a href="mailto:nokelley1@catamount.wcu.edu">Nicholas O'Kelley</a></p>
-                <p>Treasurer: <a href="mailto:bomauriciogonzalez1@catamount.wcu.edu">Brayan Gonzalez</a></p>                
+                <h3>Club Officers</h3>
+                <p>President: Daniel Hammer</p>
+                <p>Secretary: Nicholas O'Kelley</p>
+                <p>Treasurer: Brayan Gonzalez</p>                
               </header>
             </section>
 
             <section>
               <header>
-                <h2>ACM Chapter Documents</h2>
+                <h3>ACM Chapter Documents</h3>
                 <ol>
-                  <li><a href="pdfs/bylaws.pdf">ACM Chapter Bylaws</a></li>
-                  <li><a href="pdf/constitution.pdf">ACM Chapter Constitution</a></li>
+                  <li><a href="./src/pdfs/bylaws.pdf">ACM Chapter Bylaws</a></li>
+                  <li><a href="./src/pdfs/constitution.pdf">ACM Chapter Constitution</a></li>
                 </ol>
               </header>
             </section>

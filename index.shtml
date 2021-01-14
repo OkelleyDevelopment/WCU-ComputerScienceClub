@@ -40,9 +40,9 @@
 													<header>
 														<h3>Events</h3>
 													</header>
-													<p>As a club, we host several events throughout the year. Our biggest events are the department picnic, hosted every semester. Join us for free food and fun!</p>
+													<p>Join us for one of our various workshops or game nights!</p>
 													<footer>
-														<a href="src/events.shtml" class="button alt">Find out more</a>
+														<a href="events.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
@@ -52,21 +52,21 @@
 													<header>
 														<h3>About Us</h3>
 													</header>
-													<p>We have several board positions, such as president, vice president, treasurer, webmaster, and many others! Find out who everyone is and what they do!</p>
+                                                    <p>Learn more about the goals of the chapter and the current officers</p>
 													<footer>
-														<a href="src/about-us.shtml" class="button alt">Find out more</a>
+														<a href="about-us.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>
 											<div class="4u 12u(mobile)">
 												<section class="box">
-													<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+													<a href="#" class="image featured"><img src="images/matrix.webp" alt="" /></a>
 													<header>
 														<h3>Resources</h3>
 													</header>
-													<p>A colleciton of resources for students</p>
+													<p>A colleciton of resources for students ranging from books to videos</p>
 													<footer>
-														<a href="src/resources.shtml" class="button alt">Find out more</a>
+														<a href="resources.shtml" class="button alt">Find out more</a>
 													</footer>
 												</section>
 											</div>

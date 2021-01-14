@@ -19,7 +19,7 @@
 
 						<!-- Content -->
 							<article class="box post">
-								<a href="#" class="image featured"><img src="../images/events.webp" alt="" /></a>
+								<a href="#" class="image featured"><img src="" alt="" /></a>
 								<header>
 									<h2>Events for Spring 2021</h2>
 									<p>Preparing for the Digitial Marketplace</p>
@@ -63,9 +63,7 @@
 									<h4>Date: April 27th @ 7pm</h4>
 									<p>A night for all students to be pitted against each other</p>
 								</section>
-
 							</article>
-
 					</div>
 				</div>
             <!--#include virtual="included/footer.shtml"-->

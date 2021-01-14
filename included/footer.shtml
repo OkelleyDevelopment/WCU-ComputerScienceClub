@@ -12,22 +12,7 @@
 					</ul>
 				</section>
 			</div>
-			<div class="4u 12u(mobile)">
-				<section>
-					<header>
-						<h2>About Us</h2>
-					</header>
-					<a href="#" class="image featured"><img src="images/pic10.jpg" alt="" /></a>
-					<p>
-                        The Math and CS Clubs at Western are a group of students
-                        who work together to better each other, and have fun while doing it.
-					</p>
-					<footer>
-						<a href="about-us.shtml" class="button">Find out more</a>
-					</footer>
-				</section>
-    			</div>
-		</div>
+				</div>
 		<div class="row">
 			<!-- This is to get the social div to center -->
 			<div class="4u 12u(mobile)">
@@ -36,9 +21,9 @@
 			<div class="4u 12u(mobile)">
 				<section>
 		    		<ul class="social">
-						<li><a class="icon fa-facebook" href="https://www.facebook.com/groups/1971930656465785/?ref=br_rs"><span class="label">Facebook</span></a></li>
+						<!--<li><a class="icon fa-facebook" href="https://www.facebook.com/groups/1971930656465785/?ref=br_rs"><span class="label">Facebook</span></a></li>
 						<li><a class="icon fa-linkedin" href=""><span class="label">LinkedIn</span></a></li>
-						<li><a class="icon fa-github" href="https://github.com/MagicalAsh"><span class="label">Github</span></a></li>
+                        <li><a class="icon fa-github" href="https://github.com/MagicalAsh"><span class="label">Github</span></a></li>-->
 					</ul>
 				</section>
 			</div>
@@ -52,7 +37,7 @@
 				<!-- Copyright -->
 				<div id="copyright">
 					<ul class="links">
-						<li>&copy; WCU Math Club. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; WCU ACM. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>
 			</div>
