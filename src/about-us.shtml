@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <title>About Us | Western Carolina University</title>
+    <!--#include virtual="included/head.html" -->
+  </head>
+  <body class="no-sidebar">
+    <div id="page-wrapper">
+      <!--#include virtual="included/header.html"-->
+
+      <!-- Main -->
+      <div id="main-wrapper">
+        <div class="container">
+          <!-- Content -->
+          <article class="box post">
+            <a href="#" class="image featured"
+              ><img src="../images/about.webp" alt="Beep boop, looks like the image did not render :/"
+            /></a>
+            <header>
+              <h2>About Us</h2>
+              
+            </header>
+            <p>
+              We are an offical chapter of the ACM or Association for Computing Machinery, but welcome anyone who is ready to learn and have
+              some fun. Our club is dedicated to providing useful resources and practical workshops to help
+              in the development of mission critical skills that any person will need throughout their 
+              career. We have people from many majors and try to offer a diverse range of activites for all.
+            </p>      
+            
+            <section>
+              <header>
+                <h2>Chapter Advisors</h2>
+                <p><a href="mailto:andrewscott@email.wcu.edu">Dr. Andrew Scott</a></p>
+                <p><a href="mailto:kmorovat@email.wcu.edu">Dr. Kate Morovat</a></p>
+              </header>
+
+              <header>
+                <h2>Club Officers</h2>
+                <p>President: <a href="mailto:dhammer2@catamount.wcu.edu">Daniel Hammer</a></p>
+                <p>Secretary: <a href="mailto:nokelley1@catamount.wcu.edu">Nicholas O'Kelley</a></p>
+                <p>Treasurer: <a href="mailto:bomauriciogonzalez1@catamount.wcu.edu">Brayan Gonzalez</a></p>                
+              </header>
+            </section>
+
+            <section>
+              <header>
+                <h2>ACM Chapter Documents</h2>
+                <ol>
+                  <li><a href="pdfs/bylaws.pdf">ACM Chapter Bylaws</a></li>
+                  <li><a href="pdf/constitution.pdf">ACM Chapter Constitution</a></li>
+                </ol>
+              </header>
+            </section>
+          </article>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <!--#include virtual="included/footer.shtml"-->
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/skel-viewport.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8
+      ]><script src="assets/js/ie/respond.min.js"></script
+    ><![endif]-->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

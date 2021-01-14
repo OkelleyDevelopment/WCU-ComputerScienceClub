@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <title>Conferences | Western Carolina University</title>
+    <!--#include virtual="included/head.html" -->
+  </head>
+  <body class="right-sidebar">
+    <div id="page-wrapper">
+      <!--#include virtual="included/header.html" -->
+
+      <!-- Main -->
+      <div id="main-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="8u 12u(mobile)">
+              <!-- Content -->
+              <article class="box post">
+                <a href="#" class="image featured"
+                  ><img src="images/pic01.jpg" alt=""
+                /></a>
+                <header>
+                  <h2>Conferences</h2>
+                  <p>Professional Development and Networking</p>
+                </header>
+                <p>
+                  Conferences are a great way to develop yourself and to network
+                  with other people. In addition to a number of networking
+                  opportunities, conferences provide a great way to learn about
+                  other people's research, new topics within the scope of the
+                  conference, and hear several talks by distinguished speakers.
+                </p>
+                <section>
+                  <header>
+                    <h3>
+                      Mathematical Association of America Southeastern Section
+                      Meeting
+                    </h3>
+                  </header>
+                  <p>
+                    The MAASE Section Meeting is one of the biggest conferences
+                    that is regularly attended by WCU Students. The MAASE
+                    Meeting is held a university in the MAA's southeastern
+                    region. Some previous universities hosting this conference
+                    include Clemson University, Macon University, and several
+                    others.
+                  </p>
+                </section>
+                <section>
+                  <header>
+                    <h3>ACM Southeastern Section</h3>
+                  </header>
+                  <p>We're planning on going to this conference soon.</p>
+                </section>
+              </article>
+            </div>
+            <div class="4u 12u(mobile)">
+              <!-- Sidebar -->
+              <section class="box">
+                <header>
+                  <h3>Register for a conference</h3>
+                </header>
+                <p></p>
+                <ul class="divided">
+                  <li><a href="#">MAASE</a></li>
+                  <li><a href="#">ACM SE</a></li>
+                </ul>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!--#include virtual="included/footer.shtml"-->
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/skel-viewport.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8
+      ]><script src="assets/js/ie/respond.min.js"></script
+    ><![endif]-->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

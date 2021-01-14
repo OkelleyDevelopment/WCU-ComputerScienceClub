@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Events | Western Carolina University</title>
+	    <!--#include virtual="included/head.html" -->
+    </head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+            <!--#include virtual="included/header.html"-->
+
+			<!-- Main -->
+				<div id="main-wrapper">
+					<div class="container">
+
+						<!-- Content -->
+							<article class="box post">
+								<a href="#" class="image featured"><img src="../images/events.webp" alt="" /></a>
+								<header>
+									<h2>Events for Spring 2021</h2>
+									<p>Preparing for the Digitial Marketplace</p>
+								</header>
+							
+								<section>
+									<h3>Spring Intro Night</h3>
+									<h4>Date: February 2nd @ 7pm</h4>
+									<p>Initial meeting for students to drop in and say hello and learn what we have planned for the Spring 2021 semester.
+									</p>
+							   </section>
+								<section>
+									<h3>VCS and Productivity</h3>
+									<h4>Date: February 16th @ 7pm</h4>
+									<p>Join us on this night to learn more about Version Control Systems, setup a GitHub account, and learn from
+									others experiences of using such systems!</p>
+								</section>
+								<section>
+									<h3>Student Project Showcase</h3>
+									<h4>Date: March 2nd @ 7pm</h4>
+									<p>A night for students to show off projects they have been working on outside of class and/or over break!</p>
+								</section>
+								<section>
+									<h3>Resume Night</h3>
+									<h4>Date: March 16th @ 7pm</h4>
+									<p>Join us to learn more about resume do's and don'ts and hear from upper classmen and professors</p>
+								</section>
+								<section>
+									<h3>Game Night!</h3>
+									<h4>Date: March 30th @ 7pm</h4>
+									<p>By this point in the semester, we all need a moment to breathe and have some fun. NOTE: Game(s) will be decided in a 
+									poll closer to the meeting date.</p>
+								</section>
+								<section>
+									<h3>Possible Guest Speaker Night (TBD)</h3>
+									<h4>Date: April 13th @ 7pm</h4>
+									<p>Currently trying to schedule a guest to come speak, while update ASAP</p>
+								</section>
+								<section>
+									<h3>Language Duels</h3>
+									<h4>Date: April 27th @ 7pm</h4>
+									<p>A night for all students to be pitted against each other</p>
+								</section>
+
+							</article>
+
+					</div>
+				</div>
+            <!--#include virtual="included/footer.shtml"-->
+		</div>
+
+		<!--#include virtual="included/scripts.html" -->
+
+	</body>
+</html>
