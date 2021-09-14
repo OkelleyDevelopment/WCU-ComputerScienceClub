@@ -18,9 +18,10 @@
         <div class="container">
           <!-- Content -->
           <article class="box post">
-            <a href="#" class="image featured"
+            <!-- God only knows why the previous people had this as a href ~ Nicholas O'Kelley
+           <!-- <a href="#" class="image featured"
               ><img src="images/about-us.webp" alt=""
-            /></a>
+              /></a> -->
             <header>
               <h2>About Us</h2>
               

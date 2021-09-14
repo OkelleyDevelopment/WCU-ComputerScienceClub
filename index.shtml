@@ -8,7 +8,7 @@
 -->
 <html>
 	<head>
-	    <title>Math and Computer Science Clubs | Western Carolina University</title>
+	    <title>Computer Science Club | Western Carolina University</title>
         <!--#include virtual="included/head.html" -->
     </head>
 	<body class="homepage">
@@ -17,8 +17,8 @@
             
 		    <section id="banner">
 			    <header>
-				    <h2>Student Chapter of the ACM at Western Carolina University</h2>
-    				<p>Meetings on alternating Wednesdays at 7pm</p>
+				    <h2>Student Chapter of the ACM </h2>
+    				<p>Meetings on alternating Tuesday's 6-7pm</p>
 	    		</header>
   		    </section>
 		

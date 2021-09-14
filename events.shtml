@@ -21,47 +21,30 @@
 							<article class="box post">
 								<a href="#" class="image featured"><img src="" alt="" /></a>
 								<header>
-									<h2>Events for Spring 2021</h2>
-									<p>Preparing for the Digitial Marketplace</p>
+									<h2>Events for Fall 2021</h2>
+									<p></p>
 								</header>
+
+                                <!-- Event 1 -->
+                                <section>
+									<h3>Fishbowl</h3>
+									<h4>September 14th</h4>
+									<p>Join us for a relaxed night of socialization and Fishbowl!</p>
+								</section>
+
+                                <!-- Event 2 -->
+                                <section>
+									<h3>Project Night</h3>
+									<h4>September 28th</h4>
+									<p>SHare what you've been working on & see the ideas of othesr!</p>
+								</section>
+
 							
+                                <!-- Event n -->
 								<section>
-									<h3>Spring Intro Night</h3>
-									<h4>Date: February 2nd @ 7pm</h4>
-									<p>Initial meeting for students to drop in and say hello and learn what we have planned for the Spring 2021 semester.
-									</p>
-							   </section>
-								<section>
-									<h3>VCS and Productivity</h3>
-									<h4>Date: February 17th @ 6pm</h4>
-									<p>Join us on this night to learn more about Version Control Systems, setup a GitHub account, and learn from
-									others experiences of using such systems!</p>
-								</section>
-								<section>
-									<h3>Student Project Showcase</h3>
-									<h4>Date: March 3rd @ 6pm</h4>
-									<p>A night for students to show off projects they have been working on outside of class and/or over break!</p>
-								</section>
-								<section>
-									<h3>Resume Night</h3>
-									<h4>Date: March 17th @ 6pm</h4>
-									<p>Join us to learn more about resume do's and don'ts and hear from upper classmen and professors</p>
-								</section>
-								<section>
-									<h3>Game Night!</h3>
-									<h4>Date: March 31th @ 6pm</h4>
-									<p>By this point in the semester, we all need a moment to breathe and have some fun. NOTE: Game(s) will be decided in a 
-									poll closer to the meeting date.</p>
-								</section>
-								<section>
-									<h3>Possible Guest Speaker Night (TBD)</h3>
-									<h4>Date: April 14th @ 6pm</h4>
-									<p>Currently trying to schedule a guest to come speak, while update ASAP</p>
-								</section>
-								<section>
-									<h3>Language Duels</h3>
-									<h4>Date: April 28th @ 6pm</h4>
-									<p>A night for all students to be pitted against each other</p>
+									<h3></h3>
+									<h4></h4>
+									<p></p>
 								</section>
 							</article>
 					</div>
