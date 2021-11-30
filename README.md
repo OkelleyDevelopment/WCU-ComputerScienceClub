@@ -15,6 +15,7 @@ what our chapter is offering other students/peers.
 - This is a fork of Wesley's repo and has since been further modified and customized.
 
 ## Contributions
+
 Feel free to open an issue and we will get to resolving it as soon as possible. Alternatively
 you can fork this repo and create a new pull request and we will provide feedback.
 

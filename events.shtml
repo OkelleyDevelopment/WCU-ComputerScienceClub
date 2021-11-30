@@ -25,21 +25,20 @@
 									<p></p>
 								</header>
 
-                                <!-- Event 1 -->
+                                <!-- Event 3 -->
                                 <section>
-									<h3>Fishbowl</h3>
-									<h4>September 14th</h4>
-									<p>Join us for a relaxed night of socialization and Fishbowl!</p>
+                                    <h3>Game Dev Club Working Session</h3>
+                                    <h4>November 30th</h4>
+                                    <p>Got a game idea or other project you haven't worked on? Join us for an hour and be with others working to make progress !</p>
 								</section>
 
-                                <!-- Event 2 -->
+                                <!-- Event 3 -->
                                 <section>
-									<h3>Project Night</h3>
-									<h4>September 28th</h4>
-									<p>SHare what you've been working on & see the ideas of othesr!</p>
+									<h3>Retro Game Night</h3>
+                                    <h4>December 7th</h4>
+									<p>Join us for a night of nonstalgia and retro fun!</p>
 								</section>
 
-							
                                 <!-- Event n -->
 								<section>
 									<h3></h3>

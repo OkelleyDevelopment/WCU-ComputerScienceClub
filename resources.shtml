@@ -45,20 +45,20 @@
                     <h3>Increasing Productivity</h3>
                     <ul>
                         <li>A pdf explaining <a href="./src/pdfs/vcs_intro.pdf">Version Control Systems </a></li>
-                        <li>A crash course of <a href="./src/pdfs/git_basics.pdf">Git Bsics</a></li>
+                        <li>A crash course of <a href="./src/pdfs/git_basics.pdf">Git Basics</a></li>
                     </ul>
                 </section>
 
                 <section>
                   <header>
                     <h3>Tools</h3>
-                    <p>Integrated Development Enviroments</p>
+                    <p>Integrated Development Environments</p>
                     <ul>
                       <li>Pyzo - A starting IDE for Python</li>
                       <li>
                         Eclipse - An open source community, whose projects are
-                        focused on developetment tools across the projects
-                        lifecycle. (Java, C/C++)
+                        focused on development tools across the projects
+                        life cycle. (Java, C/C++)
                       </li>
                       <li>
                         Intellij IDEA - Community Edition is an open source

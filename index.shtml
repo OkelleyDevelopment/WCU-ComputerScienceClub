@@ -15,12 +15,6 @@
 		<div id="page-wrapper">
             <!--#include virtual="included/header.html" -->
             
-		    <section id="banner">
-			    <header>
-				    <h2>Student Chapter of the ACM </h2>
-    				<p>Meetings on alternating Tuesday's 6-7pm</p>
-	    		</header>
-  		    </section>
 		
         	<!-- Main -->
 				<div id="main-wrapper">
@@ -64,7 +58,7 @@
 													<header>
 														<h3>Resources</h3>
 													</header>
-													<p>A colleciton of resources for students ranging from books to videos</p>
+													<p>A collection of resources for students ranging from books to videos</p>
 													<footer>
 														<a href="resources.shtml" class="button alt">Find out more</a>
 													</footer>

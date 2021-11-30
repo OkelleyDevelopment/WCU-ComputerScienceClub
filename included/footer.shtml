@@ -1,38 +1,7 @@
 <div id="footer-wrapper">
 	<section id="footer" class="container">
-        <br />
-		<div class="row">
-			<div class="8u 12u(mobile)">
-				<section>
-					<header>
-						<h2>Upcoming Events</h2>
-					</header>
-					<ul class="dates">
-                        <!--#include file="calendar.html" -->
-					</ul>
-				</section>
-			</div>
-				</div>
-		<div class="row">
-			<!-- This is to get the social div to center -->
-			<div class="4u 12u(mobile)">
-            </div>
-			
-			<div class="4u 12u(mobile)">
-				<section>
-		    		<ul class="social">
-						<!--<li><a class="icon fa-facebook" href="https://www.facebook.com/groups/1971930656465785/?ref=br_rs"><span class="label">Facebook</span></a></li>
-						<li><a class="icon fa-linkedin" href=""><span class="label">LinkedIn</span></a></li>
-                        <li><a class="icon fa-github" href="https://github.com/MagicalAsh"><span class="label">Github</span></a></li>-->
-					</ul>
-				</section>
-			</div>
-			
-			<!-- This is to get the social div to center -->
-			<div class="4u 12u(mobile)">
-			</div>
-		</div>
-		<div class="row">
+	</section>
+	<div class="row">
 			<div class="12u">
 				<!-- Copyright -->
 				<div id="copyright">
@@ -42,5 +11,4 @@
 				</div>
 			</div>
 		</div>
-	</section>
 </div>
