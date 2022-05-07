@@ -1,3 +1,5 @@
+Just a scratch file, remove at a future date 
+
 ```
 <section id="banner">
     <header>

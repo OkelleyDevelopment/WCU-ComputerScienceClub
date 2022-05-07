@@ -21,22 +21,16 @@
 							<article class="box post">
 								<a href="#" class="image featured"><img src="" alt="" /></a>
 								<header>
-									<h2>Events for Fall 2021</h2>
+									<h2>Events for Fall 2022</h2>
 									<p></p>
 								</header>
 
-                                <!-- Event 3 -->
+                                <!-- Event 1 -->
                                 <section>
-                                    <h3>Game Dev Club Working Session</h3>
-                                    <h4>November 30th</h4>
-                                    <p>Got a game idea or other project you haven't worked on? Join us for an hour and be with others working to make progress !</p>
-								</section>
-
-                                <!-- Event 3 -->
-                                <section>
-									<h3>Retro Game Night</h3>
-                                    <h4>December 7th</h4>
-									<p>Join us for a night of nonstalgia and retro fun!</p>
+                                    <h3>Welcome Back!</h3>
+                                    <h4>Date: TBA</h4>
+                                    <h5>Time: TBA</h5>
+                                    <p>Welcome students back and plan for the future</p>
 								</section>
 
                                 <!-- Event n -->

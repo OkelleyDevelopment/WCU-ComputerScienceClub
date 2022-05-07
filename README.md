@@ -1,6 +1,6 @@
 # Student ACM Chapter Website
 
-### 2020 - 2021 School Year
+### 2020 - 2022 School Year(s)
 
 Website maintainer: Nicholas O'Kelley
 
@@ -12,7 +12,7 @@ what our chapter is offering other students/peers.
 ## Credit:
 
 - Based on HTML5Up's dopetrope template, with modifications made by Wesley Rogers.
-- This is a fork of Wesley's repo and has since been further modified and customized.
+- This is a fork of Wesley's repo and has since been further modified and customized by Nicholas with feedback from club members.
 
 ## Contributions
 
@@ -24,3 +24,5 @@ you can fork this repo and create a new pull request and we will provide feedbac
 - A form for being added to the email list
 - Make this page open source
 - Add more content to resources
+
+## Project Layout
